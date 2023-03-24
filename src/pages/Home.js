@@ -1,5 +1,5 @@
 import React from 'react'
-import CocktailLIst from './components/CocktailList'
+import CocktailList from '../components/CocktailList'
 import SearchForm from '../components/Search'
 
 
